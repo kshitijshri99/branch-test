@@ -1,2 +1,3 @@
-print("Good Morning")
+print("Good afternoon")
+
 
